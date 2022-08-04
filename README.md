@@ -4,8 +4,8 @@
 #### 🐱‍🏍 Aprendendo: HTML, CSS, Java script e Python.
 <div align="center">
   <a href="https://github.com/OdisseuIII">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OdisseuIII&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdisseuIII&layout=compact&langs_count=7&theme=white"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=OdisseuIII&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdisseuIII&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-galvão-150b7a208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
