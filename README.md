@@ -1,6 +1,6 @@
 ## Olá Seres, Meu nome é Gabriel!😊
 #### 👨‍🎓 Estudante de Tecnologia pelo Instituto Federal de Brasília. 
-#### 🕵️‍♂️Apaixonado por aprendizado.
+#### 🕵️‍♂️Apaixonado por aprendizagem.
 #### 🐱‍🏍 Aprendendo: HTML, CSS, Java script, Python e bubble.
 <div align="center">
   <a href="https://github.com/OdisseuIII">
