@@ -4,7 +4,7 @@
 #### 🐱‍🏍 Aprendendo: HTML, CSS, Java script, Python e bubble.
 <div align="center">
   <a href="https://github.com/OdisseuIII">
-  <img height="160em"  width="42%"  src="https://github-readme-stats.vercel.app/api?username=OdisseuIII&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="160em"  width="42%"  src="https://github-readme-stats.vercel.app/api?username=OdisseuIII&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
   <img height="160em" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdisseuIII&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div> 
